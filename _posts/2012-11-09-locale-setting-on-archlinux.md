@@ -3,8 +3,9 @@ layout: post
 title: "Locale setting on Archlinux"
 description: ""
 category: Archlinux
-tags: [archlinux, locale]
+tags: [archlinux, setting]
 ---
+
 {% include JB/setup %}
 
 因應 Arch 對 rc.conf 的重大變更（ref. [Arch Wiki](https://wiki.archlinux.org/index.php/Initscripts/rc.conf#New_configuration_file)）

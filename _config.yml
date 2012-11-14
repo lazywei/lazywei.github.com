@@ -127,3 +127,6 @@ JB :
 
 # For nested list
 markdown: rdiscount
+
+# The number of post per page
+paginate: 10

@@ -13,7 +13,7 @@ google 了一下 archlinux 的 pppoe 連線方式，wiki 上是寫設定 pppd，
 
 後來看到可以直接用 pppoe-setup 卻發現沒裝 rp-pppoe，但是筆電又連不上網路當然無法直接用 pacman 安裝。
 
-解法是先參考[上一篇](http://blog.lazywei.com/2012/12/07/archlinux-offline-installation-of-packages/)提到的離線安裝 rp-pppoe，這接下指令
+解法是先參考[上一篇](http://blog.lazywei.com/2012/12/07/archlinux-offline-installation-of-packages/)提到的離線安裝 rp-pppoe，下指令
 
     sudo pppoe-setup
 

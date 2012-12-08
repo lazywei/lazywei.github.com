@@ -50,9 +50,8 @@ You can view my profile on Linkedin.
 * Math
 * Dancing
 
-## What Ive done:
+## My projects:
 * [MSAC 安卓藝術](http://art-msac.com/)
 * [ShareBank 鄉鎮生活分享媒合平台](http://sharebank.lazywei.com/)
-
-## Projects
-* Translate for [Archwiki](https://wiki.archlinux.org/), a wiki for [ArchLinux](http://www.archlinux.org/).
+* [TJ Markdown Paste](http://tj-markdown-paste.herokuapp.com/) [repo](https://github.com/lazywei/tj-markdown-paste)
+* Translation of [Archwiki](https://wiki.archlinux.org/), a wiki for [ArchLinux](http://www.archlinux.org/).

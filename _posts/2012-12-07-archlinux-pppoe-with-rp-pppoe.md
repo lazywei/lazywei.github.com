@@ -3,7 +3,7 @@ layout: post
 title: "archlinux pppoe with rp-pppoe"
 description: ""
 category: 
-tags: [archlinu, pppoe]
+tags: [archlinux, pppoe]
 ---
 {% include JB/setup %}
 

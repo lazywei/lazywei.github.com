@@ -3,7 +3,7 @@ layout: post
 title: "Algebraic Multigrid with python"
 description: ""
 category: 
-tags: [linux, python, numerical linear algebra]
+tags: [archlinux, python, numerical linear algebra]
 ---
 {% include JB/setup %}
 
